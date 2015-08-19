@@ -1,0 +1,16 @@
+Name: RRegDiagTest
+Dialog-Specs: RRegDiagTest.spd
+Summary: Regression diagnostic tests
+Description: This download provides a set of diagnostic tests for regr
+ esssion analysis (Harvey-Collier Test, Rainbow Test, RESET Test, Breu
+ sch-Pagan Test, Goldfeld-Quandt Test and Harrison-McCabe Test).
+Author: Dr. Hans Grüner, Freie Universität Berlin (http://gruener​​.us
+ erpage.fu-b​e​rlin.de)
+Version: 3.0.1
+Product-Version: 18
+Date: 17.03.2011
+Categories: Breusch-Pagan, dialog, Goldfeld-Quandt​, graphics, Harriso
+ n-McCabe​, Harvey-Collier, plots, r, Rainbow, regression, RESET, stat
+ istics, tests
+Plugins: R
+R-Packages: lmtest,zoo
