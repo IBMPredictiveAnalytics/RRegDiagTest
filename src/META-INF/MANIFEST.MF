@@ -1,4 +1,5 @@
 Name: RRegDiagTest
+Display-Name: Regression Diagnostic Tests
 Dialog-Specs: RRegDiagTest.spd
 Summary: Regression diagnostic tests
 Description: This download provides a set of diagnostic tests for regr
